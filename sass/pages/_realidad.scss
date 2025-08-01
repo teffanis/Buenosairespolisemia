@@ -1,0 +1,26 @@
+// Página Realidad
+.reality-section {
+  background-color: #f8f9fa;
+  padding: 3rem 0;
+}
+
+.reality-card {
+  @include card-hover-effect;
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.reality-img {
+  height: 300px;
+  object-fit: cover;
+}
+
+.reality-quote {
+  font-style: italic;
+  border-left: 4px solid #007bff;
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+}

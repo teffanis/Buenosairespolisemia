@@ -1,0 +1,42 @@
+// Media Queries
+@media (max-width: 768px) {
+  .navbar-collapse {
+    text-align: center;
+  }
+  
+  .navbar-nav .nav-item {
+    margin: 5px 0;
+  }
+  
+  .video-title {
+    font-size: 1.8rem;
+  }
+  
+  .video-subtitle {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .video-title {
+    font-size: 1.5rem;
+  }
+  
+  .video-subtitle {
+    font-size: 0.9rem;
+  }
+  
+  .footer-redes {
+    margin-top: 20px;
+  }
+}
+
+// Mixins útiles
+@mixin card-hover-effect {
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.2);
+  }
+}

@@ -1,0 +1,19 @@
+/ Página Proyectos
+.project-highlight {
+  background-color: #f3f5f0;
+  padding: 3rem 0;
+}
+
+.project-card {
+  @include card-hover-effect;
+  border: none;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 2rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.project-img {
+  height: 250px;
+  object-fit: cover;
+}

@@ -1,0 +1,36 @@
+// Footer
+footer {
+  background-color: $light-blue;
+  color: $dark-text;
+  padding: 40px 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+
+  .footer-mapa iframe {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .footer-redes img {
+    transition: transform 0.3s ease-in-out;
+
+    &:hover {
+      transform: scale(1.1);
+    }
+  }
+    .quick-links a {
+    text-decoration: none;
+    font-weight: 500;
+    margin: 0 10px;
+    color: $dark-text;
+    transition: color 0.3s ease-in-out;
+
+    &:hover {
+      color: $primary-color;
+    }
+  }
+
+  p {
+    font-size: 0.9rem;
+    color: rgba(0, 0, 0, 0.6);
+  }
+}

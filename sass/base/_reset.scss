@@ -1,0 +1,41 @@
+// Variables
+$primary-color: #bcd7f3;
+$secondary-color: #6c757d;
+$light-blue: #e0f2f7;
+$dark-text: #212529;
+$michroma-font: "Michroma", sans-serif;
+$body-font: sans-serif;
+
+// Reset y estilos base
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $body-font;
+  line-height: 1.6;
+  color: $dark-text;
+  margin: 0;
+  padding-top: 80px; // Ajuste para navbar fija
+  background-color: #e0f2f7;
+}
+
+// Tipografía
+h1, h2, h3, h4, h5, h6 {
+  font-family: $michroma-font;
+  color: $dark-text;
+  margin-bottom: 0.5em;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+
+// Estilos para imágenes
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
