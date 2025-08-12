@@ -39,7 +39,7 @@ h2 {
 /* Navegación (Navbar) */
 .navbar {
     background-color: #343a40 !important; 
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1); 
 }
 
 .navbar-brand img {
@@ -114,7 +114,7 @@ h2 {
 
 /* MAIN content */
 #main {
-    padding-top: 60px; /* Espaciado superior contenido principal */
+    padding-top: 80px; /* Espaciado superior contenido principal */
     padding-bottom: 50px; /* Espaciado inferior contenido principal */
 }
 
