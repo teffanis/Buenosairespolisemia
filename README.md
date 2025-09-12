@@ -1,4 +1,5 @@
 📚🎨🎭 Plataforma - Revista artística digital.
+
 Este es un proyecto realizado durante la cursada de Desarrollo Web en Coderhouse 🧑‍💻.
 
 📌 Descripción
@@ -12,9 +13,11 @@ El sitio web está compuesto por 5 páginas:
 💡Proyectos artisticos
 ❗ Noticias
 📝 Comunidad organizada - Unite.
+
 Todas las páginas fueron desarrolladas de forma responsive, adaptándose a distintos dispositivos (desktop, tablet y mobile).
 
 🧰 Tecnologías utilizadas
+
 HTML
 CSS
 Git & GitHub
@@ -27,8 +30,10 @@ Visual Studio Code
 📂 Wireframes → Bocetos iniciales del diseño, tanto en desktop como en mobile
 
 🚧 Estado del proyecto
+
 Este proyecto aún se encuentra en desarrollo.
 
 🙋‍♀️ Autora
+
 Estefanis Ortiz 
 Proyecto realizado para la cursada de Desarrollo Web en Coderhouse – 2025.
