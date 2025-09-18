@@ -1,4 +1,4 @@
-📚🎨🎭 Plataforma - Revista artística digital.
+📚🎨🎭  Revista artística digital.
 
 Este es un proyecto realizado durante la cursada de Desarrollo Web en Coderhouse 🧑‍💻.
 
@@ -22,7 +22,10 @@ HTML
 CSS
 Git & GitHub
 Visual Studio Code
+
+
 📁 Organización del repositorio
+
 📄 index.html → Página principal
 📂 assets → Imágenes, íconos, logos
 📂 css
@@ -33,7 +36,7 @@ Visual Studio Code
 
 Este proyecto aún se encuentra en desarrollo.
 
-🙋‍♀️ Autora
 
+🙋‍♀️ Autora
 Estefanis Ortiz 
 Proyecto realizado para la cursada de Desarrollo Web en Coderhouse – 2025.
